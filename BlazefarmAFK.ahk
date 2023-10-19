@@ -23,7 +23,7 @@ key_exit        :=     "End"
 key_hold        :=    "XButton1"
 
 pixel_box    :=    4
-pixel_sens    :=    60
+pixel_sens    :=    79 (this is how sensitive the color gets detected)
 pixel_color    :=    0xFEFE40
 tap_time    :=    265
 
